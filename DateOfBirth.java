@@ -1,4 +1,3 @@
-package git_hub2;
 import java.time.LocalDate;
 import java.time.Period;
 
